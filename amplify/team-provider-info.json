@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-keylearning-dev-181126-authRole",
+      "UnauthRoleArn": "arn:aws:iam::894024492606:role/amplify-keylearning-dev-181126-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::894024492606:role/amplify-keylearning-dev-181126-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-keylearning-dev-181126-deployment",
+      "UnauthRoleName": "amplify-keylearning-dev-181126-unauthRole",
+      "StackName": "amplify-keylearning-dev-181126",
+      "StackId": "arn:aws:cloudformation:us-west-2:894024492606:stack/amplify-keylearning-dev-181126/50ba2820-b451-11eb-a522-0add6a5b980f",
+      "AmplifyAppId": "dsc7e5xm70l28"
+    },
+    "categories": {
+      "auth": {
+        "keylearningb2951d9d": {}
+      }
+    }
+  }
+}
